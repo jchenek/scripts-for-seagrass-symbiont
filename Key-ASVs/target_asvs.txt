@@ -1,6 +1,0 @@
-857cae3c0822cfeb18feba23973fbf9c	Bacteroidetes_BD2-2
-088974947d04ffbc9a4be85b9b405e6e	Hypnocyclicus
-6a155a1918b447b59a57dae757e2b44c	Roseibium
-c1244b49f9e6969be171225f16de3758	Vibrio_sp1
-5bad57fa3830c1d4c9ba79dbed27091b	Vibrio_sp2
-48246b976d5804a3c4c713914edd76d7	Vibrio_sp3
